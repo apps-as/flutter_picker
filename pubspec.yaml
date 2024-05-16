@@ -1,6 +1,6 @@
 name: flutter_picker
 description: Flutter plugin picker. Include NumberPicker, DateTimePicker, ArrayPicker, and default linkage Picker. Provide flexible parameters to meet various needs.
-version: 2.1.1
+version: 2.1.1-material-3-patch
 homepage: https://github.com/yangyxd/flutter_picker
 
 environment:
@@ -17,3 +17,4 @@ dev_dependencies:
 
 flutter:
 color: theme!.accentColor
+publish_to: https://onepub.dev/api/yozhnoflyg/
